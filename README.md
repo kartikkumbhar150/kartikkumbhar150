@@ -3,11 +3,6 @@
 🎓 I'm a passionate developer and AI enthusiast currently pursuing Computer Science.  
 🚀 I love building impactful projects that combine Machine Learning, IoT, and Web Development.  
 🌱 I'm currently working on:  
-- 🧠 Early detection systems for learning disabilities using EEG and ML  
-- 🌾 A multilingual AI-powered platform for farmers  
-- 🧹 A C&D waste recycling web app: **Rubble Revivers**
-
----
 
 ## 🔧 Tech Stack
 
