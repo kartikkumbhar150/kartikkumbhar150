@@ -1,87 +1,125 @@
-<h1 align="center">🔥 Kartik Kumbhar 🔥</h1>
+<!-- ==================== MATRIX RAIN HEADER ==================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Engineer;IoT+Innovator;Deep+Learning+Researcher;Product+Builder+%26+Inventor" />
+  <img src="https://raw.githubusercontent.com/avinash-218/avinash-218/main/assets/matrix.gif" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KartikKumbhar/KartikKumbhar/main/banner.png" width="100%" />
-</p>
+<h1 align="center">
+  <span style="color:#00FFFF; text-shadow:0 0 20px #00FFFF;">⚡ KARTIK KUMBHAR ⚡</span>
+  <br>
+  <span style="color:#FF00FF; text-shadow:0 0 20px #FF00FF;">AI/ML • FULL STACK • IoT • INNOVATOR</span>
+</h1>
 
 <p align="center">
-  <b>🚀 Innovator | 💻 Developer | 🤖 AI/ML Engineer</b><br>
-  <i>Building intelligent systems that create real-world impact</i>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E5FF&width=700&center=true&vCenter=true&lines=Full-Stack+Developer;AI%2FML+Engineer;IoT+Product+Builder;Deep+Learning+Researcher;Innovation+%26+Impact+Focused" />
+</p>
+
+<!-- ==================== NEON WAVE ==================== -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" height="120px">
+
+<!-- ==================== ABOUT ME ==================== -->
+
+## 🧬 About Me
+
+I’m **Kartik Kumbhar**, an innovation-driven engineer building the future with  
+**AI/ML**, **IoT**, **Signal Processing**, and **Full-Stack Engineering**.
+
+### 🚀 What I Do
+- 🧠 Deep Learning • EEG Signal Processing • ML Systems  
+- 📝 Inventor with a **filed patent** (EEG-based learning disability detection)  
+- 🔧 Build full-stack + IoT products from scratch  
+- 🎤 Conduct Git/GitHub & ML workshops  
+- 🌍 Passion for real-world social impact tech  
+
+<!-- ==================== GLASSMORPHISM CARD ==================== -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/uidotdev/readme-glassmorphism/main/glass-card.png" width="75%">
+</p>
+
+<!-- ==================== SKILLS ==================== -->
+
+## 💠 Skills & Technologies
+
+<p align="center">
+
+### **Languages**
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow">
+<img src="https://img.shields.io/badge/Java-FF4F00?style=for-the-badge&logo=coffee&logoColor=white">
+
+### **Frontend**
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/React-00D9FF?style=for-the-badge&logo=react">
+
+### **Backend**
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=000">
+
+### **AI / ML**
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Computer%20Vision-00E5FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/EEG%20Processing-6B4EFF?style=for-the-badge">
+
+### **IoT / Hardware**
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/MindWave%20EEG-6B4EFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Smart%20Sensors-FF6F00?style=for-the-badge">
+
+### **Tools**
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge">
+
 </p>
 
 ---
 
-## 🌟 About Me
-
-I’m **Kartik Kumbhar**, an innovation-driven engineer exploring the intersection of  
-**AI/ML**, **IoT**, **signal processing**, and **full-stack development**.
-
-- 🧠 Deep Learning • AI • EEG Signal Processing  
-- 📝 Filed a **patent** for EEG-based learning disability detection  
-- 🔧 Full-stack + IoT product builder  
-- 🎤 Conducted workshops on Git/GitHub, ML, and development  
-- 🌍 Passionate about engineering solutions that matter  
-
----
-
-# ⚡ Tech Stack & Tools
-
-### **💻 Languages**
-![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-FCDC00?logo=javascript&logoColor=black&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-E34F26?logo=coffee&style=for-the-badge)
-
-### **🎨 Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge)
-![React](https://img.shields.io/badge/React-00D9FF?logo=react&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=for-the-badge)
-
-### **🛠 Backend**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-FFFFFF?logo=flask&logoColor=black&style=for-the-badge)
-
-### **🧪 AI/ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00E5FF?style=for-the-badge)
-![Librosa](https://img.shields.io/badge/Audio%20Processing-4C1?style=for-the-badge)
-
-### **🔌 IoT / Hardware**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&style=for-the-badge)
-![Sensors](https://img.shields.io/badge/Smart%20Sensors-FF6F00?style=for-the-badge)
-![MindWave](https://img.shields.io/badge/NeuroSky%20MindWave-6B4EFF?style=for-the-badge)
-
----
+<!-- ==================== NEON DIVIDER ==================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Paulino98k/Paulino98k/main/neon-divider.gif" width="80%">
+</p>
 
 # 🚀 Featured Projects
 
-### 🔵 **EEG-Based Learning Disability & ADHD Detection**
-- Patent-filed AI/EEG device  
-- PyTorch + signal processing + real-time EEG acquisition  
-- End-to-end dashboard + ML classification  
-
-### 🟣 **Child Labor Detection App**
-- Anonymous citizen reports  
-- NGO Dashboard (Spring Boot + Firebase)  
-- ML-based complaint severity prediction  
-
-### 🟠 **Smart Umbrella (IoT)**
-- UV detection, heat-stroke prevention, theft protection  
-- Arduino + Node.js + MongoDB + mobile alerts  
-
-### 🟤 **Multilingual Farmer Marketplace**
-- Voice input, language translation, chatbot (Gemini AI)  
-- Real-time crop insights, payment integration  
+## 🔵 **EEG-Based Learning Disability & ADHD Detection**
+- AI + EEG device (patent filed)  
+- Real-time MindWave data streaming  
+- PyTorch + signal processing pipeline  
+- Full web dashboard + live classification  
 
 ---
 
-# 📊 GitHub Stats (Dynamic)
+## 🟣 **Child Labor Detection App & NGO Dashboard**
+- Anonymous citizen reporting  
+- ML-powered complaint severity prediction  
+- Firebase + Spring Boot + Android  
+- Chatbot + donation portal  
+
+---
+
+## 🟠 **Smart Umbrella (Smart City IoT)**
+- Heat-stroke prevention + UV detection  
+- Anti-theft IoT locking  
+- Arduino + Node.js + MongoDB  
+- Mobile alerts & weather intelligence  
+
+---
+
+## 🟤 **Multilingual Farmer Marketplace**
+- Voice-to-text + multilingual chatbot (Gemini AI)  
+- Real-time crop insights + pricing  
+- Payment gateway integration  
+- Farmer–buyer direct connection  
+
+---
+
+<!-- ==================== GITHUB STATS ==================== -->
+
+# 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KartikKumbhar&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -89,14 +127,27 @@ I’m **Kartik Kumbhar**, an innovation-driven engineer exploring the intersecti
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikKumbhar&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikKumbhar&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
+<!-- ==================== 3D SUMMARY CARDS ==================== -->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KartikKumbhar&theme=tokyonight" width="100%"/>
+</p>
+
+<!-- ==================== CONTRIBUTION GRAPH ==================== -->
 
 # 🟩 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikKumbhar&theme=react-dark&hide_border=true"/>
+</p>
+
+<!-- ==================== SNAKE ANIMATION ==================== -->
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
 ---
@@ -106,10 +157,16 @@ I’m **Kartik Kumbhar**, an innovation-driven engineer exploring the intersecti
 📧 **Email:** kumbharkartik150@gmail.com  
 🌐 **Portfolio:** https://yourwebsite.com  
 💼 **LinkedIn:** Kartik Kumbhar  
-🐙 **GitHub:** <a href="https://github.com/KartikKumbhar">KartikKumbhar</a>
+🐙 **GitHub:** https://github.com/KartikKumbhar  
 
 ---
 
-<p align="center">  
-  🚀 <b>Made with passion, purpose & innovation — by Kartik Kumbhar</b>  
+<!-- ==================== CYBERPUNK FOOTER ==================== -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aniket965/readme-waves/master/dark.svg" width="100%">
 </p>
+
+<h3 align="center" style="color:#00FFFF;">
+  ⚡ Engineered with Passion & Innovation — by Kartik Kumbhar ⚡
+</h3>
