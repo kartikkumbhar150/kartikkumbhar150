@@ -1,110 +1,90 @@
-<!-- Banner / Header -->
-<p align="center">
-  <!-- Replace with your own banner image -->
-  <img src="https://raw.githubusercontent.com/KartikKumbhar/KartikKumbhar/main/banner.png" alt="Kartik Kumbhar Banner" width="100%"/>
-</p>
+👋 Hi, I’m Kartik Kumbhar
+<p align="center"> <img src="https://raw.githubusercontent.com/KartikKumbhar/KartikKumbhar/main/banner.png" alt="Kartik Kumbhar Banner" width="100%"/> </p> <p align="center"> <strong>🚀 Innovator | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast</strong><br> <em>Building meaningful solutions at the intersection of intelligence, innovation, and impact.</em> </p> <p align="center"> <a href="https://github.com/KartikKumbhar"><img src="https://img.shields.io/github/followers/KartikKumbhar?label=Follow&style=for-the-badge"></a> <a href="#"><img src="https://img.shields.io/badge/AI%2FML-Projects-blue?style=for-the-badge"></a> <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Lover-brightgreen?style=for-the-badge"></a> </p>
+🌟 About Me
 
-<h1 align="center">👋 Hi, I’m Kartik Kumbhar</h1>
+I’m Kartik Kumbhar, a driven technologist passionate about AI/ML, IoT, full-stack engineering, and solving real-world problems with scalable systems.
 
-<p align="center">
-  <strong>🚀 Innovator | 💻 Developer | 🤖 AI/ML Enthusiast</strong><br>
-  <em>Building impactful projects at the intersection of technology & society</em>
-</p>
+My work revolves around creating human-centric innovations — from early detection systems for learning disabilities to smart city solutions and multilingual platforms for farmers.
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/KartikKumbhar"><img src="https://img.shields.io/github/followers/KartikKumbhar?label=Follow&style=for-the-badge" alt="Followers"></a>
-  <a href="#"><img src="https://img.shields.io/badge/AI%2FML-Projects-blue?style=for-the-badge" alt="AI/ML"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Lover-brightgreen?style=for-the-badge" alt="Open Source"></a>
-</p>
+🎓 Student, Creator & Research Enthusiast
 
----
+🧠 Specialized in Deep Learning, Signal Processing & End-to-End App Development
 
-## 🌟 About Me  
-I’m **Kartik Kumbhar**, a tech enthusiast passionate about AI, machine learning, IoT, and full-stack development.  
-I thrive on building real-world solutions that improve lives — from detecting learning disabilities early to empowering farmers and citizens through technology.
+📝 Filed a patent for an EEG-based learning disability detection device
 
-- 🎓 Student & Innovator  
-- 🧠 Passionate about **AI/ML, IoT, Web & Mobile Apps**  
-- 📝 Filed a **patent** for a device detecting learning disabilities  
-- 💡 Love teaching juniors (conducting sessions on Git/GitHub & more)  
+📢 Conducted workshops on Git/GitHub, ML basics & project development
 
----
+💡 Love building products that create social and technological impact
 
-## 🛠️ Technologies & Skills  
+🛠️ Technologies & Skills
+Category	Technologies / Tools
+Frontend	HTML5, CSS3, JavaScript, React, Flutter
+Backend	Spring Boot, Flask, Node.js
+Databases	MySQL, MongoDB, Firebase
+AI / ML	Python, PyTorch, Scikit-learn, Librosa, Computer Vision, EEG Processing
+IoT / Hardware	Arduino, NeuroSky MindWave, Smart Sensors
+Dev Tools	Git/GitHub, Docker, Twilio, Gemini API, REST APIs
+🚀 Featured Projects
+🔵 EEG-Based Learning Disability & ADHD Detection
 
-| **Category**         | **Technologies** |
-|----------------------|------------------|
-| **Frontend**         | HTML5, CSS3, JavaScript, React, Flutter |
-| **Backend**          | Spring Boot, Flask, Node.js |
-| **Databases**        | MySQL, MongoDB, Firebase |
-| **Machine Learning / AI** | Python, PyTorch, Scikit-learn, Librosa, Computer Vision, EEG signal processing |
-| **IoT & Hardware**   | Arduino, NeuroSky MindWave, Smart Devices |
-| **Other Tools**      | Git/GitHub, Docker, Twilio, Gemini API |
+Developed an AI-powered system using EEG signals + behavioral questionnaires
 
----
+Filed a patent for the detection device
 
-## 🚀 Notable Projects  
+Built PyTorch models, signal-processing pipeline & full web interface
 
-### 🟢 **Rubble Revivers**  
-A web-based platform for **Construction & Demolition Waste Management**.  
-- Users request waste collection  
-- Cashback & rewards for purchasing recycled products  
-- Promotes recycling and sustainable construction  
+Real-time data acquisition via MindWave + ML classification
 
-### 🟣 **Child Labor Detection App & Web Platform**  
-- Citizens can anonymously report child labor  
-- NGOs access dashboards to review and act on complaints  
-- Machine learning model classifies severity of complaints  
-- Firebase & Spring Boot integrations  
-- Android app with NGO/admin login, donation & contact features  
+🟣 Child Labor Detection App & NGO Web Dashboard
 
-### 🔵 **Learning Disability & ADHD Detection (EEG-based)**  
-- Uses EEG data, questionnaires, and machine learning  
-- Filed a patent for an early-detection device  
-- PyTorch model with EEG data and web interface for results  
+Allows citizens to report child labor incidents anonymously
 
-### 🟡 **Virtual Fitting Rooms using AI**  
-- Live camera-based virtual try-on for clothes  
-- No avatars – real-time clothing overlay  
+NGOs receive dashboards to analyze, prioritize & take action
 
-### 🟠 **Smart Umbrella for Smart City Living**  
-- IoT-enabled umbrella preventing heat stroke & loss  
-- Weather notifications, UV alerts, and reminders  
-- Node.js + Arduino + MongoDB backend  
+Complaint severity predicted using ML
 
-### 🟤 **Multilingual Farmer Marketplace**  
-- Farmers list produce & buyers purchase directly  
-- Integrated multilingual chatbot using Gemini AI API  
-- Voice-to-text support, location-based features, and payment gateway  
+Built with Firebase, Android, Spring Boot API
 
----
+Includes NGO/admin login, chatbot, contact & donation portal
 
-## 📸 Photos & Screenshots  
-<p align="center">
-  <!-- Replace these with actual images/screenshots from your projects -->
-  <img src="https://raw.githubusercontent.com/KartikKumbhar/KartikKumbhar/main/project1.png" width="400" alt="Project 1"/>
-  <img src="https://raw.githubusercontent.com/KartikKumbhar/KartikKumbhar/main/project2.png" width="400" alt="Project 2"/>
-</p>
+🟠 Smart Umbrella — Smart City IoT Project
 
----
+IoT-powered umbrella preventing heat-stroke & theft
 
-## ✨ Highlights  
-- 🧠 Filed patent for **Child Learning Disability Detection Device**  
-- 🤝 Conducted sessions for juniors on **Git/GitHub**  
-- 🏗️ Built multiple **AI-powered web & mobile apps**  
-- 🌍 Focus on **social impact through technology**  
+Real-time weather alerts, UV detection & reminder system
 
----
+Built using Arduino + Node.js + MongoDB
 
-## 📦 How to Reach Me  
-- 💌 Email: your-email@example.com  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 💼 LinkedIn: [Kartik Kumbhar](https://linkedin.com/in/your-link)  
+Mobile-connected notifications for user convenience
 
----
+🟤 Multilingual Farmer Marketplace
 
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/KartikKumbhar">Kartik Kumbhar</a>
-</p>
+Farmers list products & buyers purchase directly
+
+Includes voice-to-text, multilingual chatbot & location-based sorting
+
+Integrated with Gemini AI API for conversation & assistance
+
+Payment gateway + crop insights + real-time pricing
+
+📸 Project Snapshots
+<p align="center"> <img src="https://raw.githubusercontent.com/KartikKumbhar/KartikKumbhar/main/project1.png" width="400"/> <img src="https://raw.githubusercontent.com/KartikKumbhar/KartikKumbhar/main/project2.png" width="400"/> </p>
+✨ Achievements & Highlights
+
+🧠 Filed an official patent for an EEG-based detection system
+
+📣 Delivered hands-on sessions to juniors on GitHub & Development Workflow
+
+🏗️ Built several AI-powered apps, dashboards & IoT systems
+
+🌍 Passionate about social impact through technology
+
+📬 Connect With Me
+
+📧 Email: kumbharkartik150@gmail.com
+
+🌐 Portfolio: https://yourwebsite.com
+
+💼 LinkedIn: Kartik Kumbhar
+
+<p align="center">Made with ❤️ by <a href="https://github.com/KartikKumbhar">Kartik Kumbhar</a></p>
