@@ -1,90 +1,115 @@
-👋 Hi, I’m Kartik Kumbhar
-<p align="center"> <img src="https://raw.githubusercontent.com/KartikKumbhar/KartikKumbhar/main/banner.png" alt="Kartik Kumbhar Banner" width="100%"/> </p> <p align="center"> <strong>🚀 Innovator | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast</strong><br> <em>Building meaningful solutions at the intersection of intelligence, innovation, and impact.</em> </p> <p align="center"> <a href="https://github.com/KartikKumbhar"><img src="https://img.shields.io/github/followers/KartikKumbhar?label=Follow&style=for-the-badge"></a> <a href="#"><img src="https://img.shields.io/badge/AI%2FML-Projects-blue?style=for-the-badge"></a> <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Lover-brightgreen?style=for-the-badge"></a> </p>
-🌟 About Me
+<h1 align="center">🔥 Kartik Kumbhar 🔥</h1>
 
-I’m Kartik Kumbhar, a driven technologist passionate about AI/ML, IoT, full-stack engineering, and solving real-world problems with scalable systems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Engineer;IoT+Innovator;Deep+Learning+Researcher;Product+Builder+%26+Inventor" />
+</p>
 
-My work revolves around creating human-centric innovations — from early detection systems for learning disabilities to smart city solutions and multilingual platforms for farmers.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KartikKumbhar/KartikKumbhar/main/banner.png" width="100%" />
+</p>
 
-🎓 Student, Creator & Research Enthusiast
+<p align="center">
+  <b>🚀 Innovator | 💻 Developer | 🤖 AI/ML Engineer</b><br>
+  <i>Building intelligent systems that create real-world impact</i>
+</p>
 
-🧠 Specialized in Deep Learning, Signal Processing & End-to-End App Development
+---
 
-📝 Filed a patent for an EEG-based learning disability detection device
+## 🌟 About Me
 
-📢 Conducted workshops on Git/GitHub, ML basics & project development
+I’m **Kartik Kumbhar**, an innovation-driven engineer exploring the intersection of  
+**AI/ML**, **IoT**, **signal processing**, and **full-stack development**.
 
-💡 Love building products that create social and technological impact
+- 🧠 Deep Learning • AI • EEG Signal Processing  
+- 📝 Filed a **patent** for EEG-based learning disability detection  
+- 🔧 Full-stack + IoT product builder  
+- 🎤 Conducted workshops on Git/GitHub, ML, and development  
+- 🌍 Passionate about engineering solutions that matter  
 
-🛠️ Technologies & Skills
-Category	Technologies / Tools
-Frontend	HTML5, CSS3, JavaScript, React, Flutter
-Backend	Spring Boot, Flask, Node.js
-Databases	MySQL, MongoDB, Firebase
-AI / ML	Python, PyTorch, Scikit-learn, Librosa, Computer Vision, EEG Processing
-IoT / Hardware	Arduino, NeuroSky MindWave, Smart Sensors
-Dev Tools	Git/GitHub, Docker, Twilio, Gemini API, REST APIs
-🚀 Featured Projects
-🔵 EEG-Based Learning Disability & ADHD Detection
+---
 
-Developed an AI-powered system using EEG signals + behavioral questionnaires
+# ⚡ Tech Stack & Tools
 
-Filed a patent for the detection device
+### **💻 Languages**
+![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-FCDC00?logo=javascript&logoColor=black&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-E34F26?logo=coffee&style=for-the-badge)
 
-Built PyTorch models, signal-processing pipeline & full web interface
+### **🎨 Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge)
+![React](https://img.shields.io/badge/React-00D9FF?logo=react&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=for-the-badge)
 
-Real-time data acquisition via MindWave + ML classification
+### **🛠 Backend**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-FFFFFF?logo=flask&logoColor=black&style=for-the-badge)
 
-🟣 Child Labor Detection App & NGO Web Dashboard
+### **🧪 AI/ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00E5FF?style=for-the-badge)
+![Librosa](https://img.shields.io/badge/Audio%20Processing-4C1?style=for-the-badge)
 
-Allows citizens to report child labor incidents anonymously
+### **🔌 IoT / Hardware**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&style=for-the-badge)
+![Sensors](https://img.shields.io/badge/Smart%20Sensors-FF6F00?style=for-the-badge)
+![MindWave](https://img.shields.io/badge/NeuroSky%20MindWave-6B4EFF?style=for-the-badge)
 
-NGOs receive dashboards to analyze, prioritize & take action
+---
 
-Complaint severity predicted using ML
+# 🚀 Featured Projects
 
-Built with Firebase, Android, Spring Boot API
+### 🔵 **EEG-Based Learning Disability & ADHD Detection**
+- Patent-filed AI/EEG device  
+- PyTorch + signal processing + real-time EEG acquisition  
+- End-to-end dashboard + ML classification  
 
-Includes NGO/admin login, chatbot, contact & donation portal
+### 🟣 **Child Labor Detection App**
+- Anonymous citizen reports  
+- NGO Dashboard (Spring Boot + Firebase)  
+- ML-based complaint severity prediction  
 
-🟠 Smart Umbrella — Smart City IoT Project
+### 🟠 **Smart Umbrella (IoT)**
+- UV detection, heat-stroke prevention, theft protection  
+- Arduino + Node.js + MongoDB + mobile alerts  
 
-IoT-powered umbrella preventing heat-stroke & theft
+### 🟤 **Multilingual Farmer Marketplace**
+- Voice input, language translation, chatbot (Gemini AI)  
+- Real-time crop insights, payment integration  
 
-Real-time weather alerts, UV detection & reminder system
+---
 
-Built using Arduino + Node.js + MongoDB
+# 📊 GitHub Stats (Dynamic)
 
-Mobile-connected notifications for user convenience
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikKumbhar&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikKumbhar&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-🟤 Multilingual Farmer Marketplace
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikKumbhar&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
-Farmers list products & buyers purchase directly
+---
 
-Includes voice-to-text, multilingual chatbot & location-based sorting
+# 🟩 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikKumbhar&theme=react-dark&hide_border=true"/>
+</p>
 
-Integrated with Gemini AI API for conversation & assistance
+---
 
-Payment gateway + crop insights + real-time pricing
+# 📬 Connect With Me
 
-📸 Project Snapshots
-<p align="center"> <img src="https://raw.githubusercontent.com/KartikKumbhar/KartikKumbhar/main/project1.png" width="400"/> <img src="https://raw.githubusercontent.com/KartikKumbhar/KartikKumbhar/main/project2.png" width="400"/> </p>
-✨ Achievements & Highlights
+📧 **Email:** kumbharkartik150@gmail.com  
+🌐 **Portfolio:** https://yourwebsite.com  
+💼 **LinkedIn:** Kartik Kumbhar  
+🐙 **GitHub:** <a href="https://github.com/KartikKumbhar">KartikKumbhar</a>
 
-🧠 Filed an official patent for an EEG-based detection system
+---
 
-📣 Delivered hands-on sessions to juniors on GitHub & Development Workflow
-
-🏗️ Built several AI-powered apps, dashboards & IoT systems
-
-🌍 Passionate about social impact through technology
-
-📬 Connect With Me
-
-📧 Email: kumbharkartik150@gmail.com
-
-🌐 Portfolio: https://yourwebsite.com
-
-💼 LinkedIn: Kartik Kumbhar
-
-<p align="center">Made with ❤️ by <a href="https://github.com/KartikKumbhar">Kartik Kumbhar</a></p>
+<p align="center">  
+  🚀 <b>Made with passion, purpose & innovation — by Kartik Kumbhar</b>  
+</p>
