@@ -1,172 +1,127 @@
-<!-- ==================== MATRIX RAIN HEADER ==================== -->
-
+<!-- ===================== MATRIX RAIN HEADER ===================== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/avinash-218/avinash-218/main/assets/matrix.gif" width="100%"/>
 </p>
 
 <h1 align="center">
-  <span style="color:#00FFFF; text-shadow:0 0 20px #00FFFF;">⚡ KARTIK KUMBHAR ⚡</span>
+  <span style="color:#00FFFF; text-shadow:0 0 15px #00FFFF;">⚡ KARTIK KUMBHAR ⚡</span>
   <br>
-  <span style="color:#FF00FF; text-shadow:0 0 20px #FF00FF;">AI/ML • FULL STACK • IoT • INNOVATOR</span>
+  <span style="color:#FF00FF; text-shadow:0 0 15px #FF00FF;">AI/ML • FULL STACK • IoT • INNOVATOR</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E5FF&width=700&center=true&vCenter=true&lines=Full-Stack+Developer;AI%2FML+Engineer;IoT+Product+Builder;Deep+Learning+Researcher;Innovation+%26+Impact+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3500&pause=1000&color=00F7FF&width=800&center=true&vCenter=true&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Deep+Learning+Researcher;IoT+Product+Developer;Impact+Driven+Innovator"/>
 </p>
 
-<!-- ==================== NEON WAVE ==================== -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" height="120px">
+<!-- ===================== NEON WAVE ===================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" height="110px">
+</p>
 
-<!-- ==================== ABOUT ME ==================== -->
+<!-- ===================== ABOUT SECTION ===================== -->
 
 ## 🧬 About Me
 
-I’m **Kartik Kumbhar**, an innovation-driven engineer building the future with  
-**AI/ML**, **IoT**, **Signal Processing**, and **Full-Stack Engineering**.
+I’m **Kartik**, an innovation-focused engineer working at the intersection of  
+**AI-ML, Full-Stack Systems, IoT Devices & Signal Intelligence**.
 
-### 🚀 What I Do
-- 🧠 Deep Learning • EEG Signal Processing • ML Systems  
-- 📝 Inventor with a **filed patent** (EEG-based learning disability detection)  
-- 🔧 Build full-stack + IoT products from scratch  
-- 🎤 Conduct Git/GitHub & ML workshops  
-- 🌍 Passion for real-world social impact tech  
-
-<!-- ==================== GLASSMORPHISM CARD ==================== -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/uidotdev/readme-glassmorphism/main/glass-card.png" width="75%">
-</p>
-
-<!-- ==================== SKILLS ==================== -->
-
-## 💠 Skills & Technologies
-
-<p align="center">
-
-### **Languages**
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow">
-<img src="https://img.shields.io/badge/Java-FF4F00?style=for-the-badge&logo=coffee&logoColor=white">
-
-### **Frontend**
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/React-00D9FF?style=for-the-badge&logo=react">
-
-### **Backend**
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=000">
-
-### **AI / ML**
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/Computer%20Vision-00E5FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/EEG%20Processing-6B4EFF?style=for-the-badge">
-
-### **IoT / Hardware**
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-<img src="https://img.shields.io/badge/MindWave%20EEG-6B4EFF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Smart%20Sensors-FF6F00?style=for-the-badge">
-
-### **Tools**
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge">
-
-</p>
+🔥 Highlights:  
+- Inventor with a **filed patent** in EEG–based disability detection  
+- Creator of impactful tech products and real-time ML systems  
+- Delivered ML & Git workshops across domains  
+- Focused on scalable engineering + social innovation  
 
 ---
 
-<!-- ==================== NEON DIVIDER ==================== -->
+<!-- ===================== SKILLS SECTION ===================== -->
+
+## 💠 Skills & Technologies
+
+<div align="center">
+
+### 🧑‍💻 **Languages**
+<img src="https://img.shields.io/badge/Python-1c1c1c?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/JavaScript-1c1c1c?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/Java-1c1c1c?style=for-the-badge&logo=openjdk">
+
+### 🎨 **Frontend**
+<img src="https://img.shields.io/badge/React-1c1c1c?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/HTML5-1c1c1c?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/CSS3-1c1c1c?style=for-the-badge&logo=css3">
+
+### 🏗️ **Backend & Cloud**
+<img src="https://img.shields.io/badge/Spring%20Boot-1c1c1c?style=for-the-badge&logo=springboot">
+<img src="https://img.shields.io/badge/Node.js-1c1c1c?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/Flask-1c1c1c?style=for-the-badge&logo=flask">
+
+### 🧠 **AI / ML**
+<img src="https://img.shields.io/badge/PyTorch-990000?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit%20Learn-ff8800?style=for-the-badge&logo=scikitlearn">
+<img src="https://img.shields.io/badge/EEG%20Signal%20Processing-6B4EFF?style=for-the-badge">
+
+### ⚙️ **Dev Tools & Infra**
+<img src="https://img.shields.io/badge/Docker-1c1c1c?style=for-the-badge&logo=docker">
+<img src="https://img.shields.io/badge/Postman-1c1c1c?style=for-the-badge&logo=postman">
+<img src="https://img.shields.io/badge/REST%20APIs-1c1c1c?style=for-the-badge">
+
+</div>
+
+---
+
+<!-- ===================== NEON DIVIDER ===================== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Paulino98k/Paulino98k/main/neon-divider.gif" width="80%">
 </p>
 
-# 🚀 Featured Projects
+# 🚀 Featured Innovations
 
-## 🔵 **EEG-Based Learning Disability & ADHD Detection**
-- AI + EEG device (patent filed)  
-- Real-time MindWave data streaming  
-- PyTorch + signal processing pipeline  
-- Full web dashboard + live classification  
-
----
-
-## 🟣 **Child Labor Detection App & NGO Dashboard**
-- Anonymous citizen reporting  
-- ML-powered complaint severity prediction  
-- Firebase + Spring Boot + Android  
-- Chatbot + donation portal  
+## 🔹 EEG-Based Learning Disability & ADHD System
+✔ Patent-filed EEG-ML Architecture  
+✔ Real-time MindWave acquisition  
+✔ Live classification dashboard  
+✔ PyTorch + DSP pipelines  
 
 ---
 
-## 🟠 **Smart Umbrella (Smart City IoT)**
-- Heat-stroke prevention + UV detection  
-- Anti-theft IoT locking  
-- Arduino + Node.js + MongoDB  
-- Mobile alerts & weather intelligence  
+## 🔹 Smart Umbrella (Smart City IoT Product)
+✔ Heat-stroke monitoring  
+✔ UV-ray protection scoring  
+✔ Anti-theft locking  
+✔ Weather-based alerts  
 
 ---
 
-## 🟤 **Multilingual Farmer Marketplace**
-- Voice-to-text + multilingual chatbot (Gemini AI)  
-- Real-time crop insights + pricing  
-- Payment gateway integration  
-- Farmer–buyer direct connection  
+## 🔹 Child Labor Anonymous Reporting System
+✔ ML-powered complaint severity prediction  
+✔ Secure reporting with NGO backend portal  
+✔ Android + Firebase + Spring Boot Services  
 
 ---
 
-<!-- ==================== GITHUB STATS ==================== -->
+<!-- ===================== CONNECT ===================== -->
 
-# 📊 GitHub Stats & Activity
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KartikKumbhar&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikKumbhar&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikKumbhar&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<!-- ==================== 3D SUMMARY CARDS ==================== -->
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KartikKumbhar&theme=tokyonight" width="100%"/>
-</p>
-
-<!-- ==================== CONTRIBUTION GRAPH ==================== -->
-
-# 🟩 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikKumbhar&theme=react-dark&hide_border=true"/>
-</p>
-
-<!-- ==================== SNAKE ANIMATION ==================== -->
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%">
-</p>
-
----
-
-# 📬 Connect With Me
+## 🌐 Connect With Me  
 
 📧 **Email:** kumbharkartik150@gmail.com  
-🌐 **Portfolio:** https://yourwebsite.com  
-💼 **LinkedIn:** Kartik Kumbhar  
-🐙 **GitHub:** https://github.com/KartikKumbhar  
+
+<a href="https://linkedin.com/in/kartik-kumbhar">
+  <img src="https://img.shields.io/badge/LinkedIn-0080ff?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/KartikKumbhar">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
+</a>
+
+</div>
 
 ---
-
-<!-- ==================== CYBERPUNK FOOTER ==================== -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aniket965/readme-waves/master/dark.svg" width="100%">
 </p>
 
-<h3 align="center" style="color:#00FFFF;">
-  ⚡ Engineered with Passion & Innovation — by Kartik Kumbhar ⚡
+<h3 align="center" style="color:#00FFFF; text-shadow:0 0 18px #00FFFF;">
+  🔥 Engineering Intelligent Systems with Purpose & Innovation 🔥
 </h3>
