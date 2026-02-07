@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Kartik Kumbhar</h1>
 
 <p align="center">
-  <b>AI/ML Engineer • Full Stack Developer • IoT Innovator</b><br>
+  <b>Software Engineer • Full Stack Developer • IoT Innovator</b><br>
   Building intelligent systems with real-world impact
 </p>
 
