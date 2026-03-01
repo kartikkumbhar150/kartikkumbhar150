@@ -3,14 +3,13 @@
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║   Hey there 👋 — I'm Kartik Kumbhar                      ║
-║   Software Engineer · ML Researcher · Patent Holder       ║
+║   Software Engineer 
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-kumbhar)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumbharkartik150@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KartikKumbhar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikkumbhar150)
 
 </div>
 
@@ -18,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Engineering** student at Dr. D.Y. Patil Institute of Technology (GPA: **9.16/10**), building AI-driven, scalable, and socially impactful systems — from EEG-based healthcare tools to enterprise restaurant platforms.
+I'm a **Computer Engineering** student at Dr. D.Y. Patil Institute of Technology , building AI-driven, scalable, and socially impactful systems — from EEG-based healthcare tools to enterprise restaurant platforms.
 
 - 🧠 Deep focus on **AI/ML, Signal Processing & Deep Learning**
 - 🌐 Full-Stack Developer — Spring Boot · Flutter · React · Next.js
@@ -97,14 +96,12 @@ A sustainability-focused framework for measuring and reducing the carbon footpri
 ## 🎓 Education
 
 **Dr. D.Y. Patil Institute of Technology**, Pune, Maharashtra  
-`B.E. Computer Engineering · 2023–2027 · GPA: 9.16 / 10`
+`B.E. Computer Engineering · 2023–2027 ·`
 
 ---
 
 <div align="center">
 
 *"Engineering intelligent systems with purpose."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=KartikKumbhar&color=6c63ff&style=flat-square)
 
 </div>
